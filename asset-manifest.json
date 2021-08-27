@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://tigglezz.github.io/csb-38oz1/static/css/main.c4902aa5.chunk.css",
+    "main.js": "https://tigglezz.github.io/csb-38oz1/static/js/main.fdcec716.chunk.js",
+    "main.js.map": "https://tigglezz.github.io/csb-38oz1/static/js/main.fdcec716.chunk.js.map",
+    "runtime-main.js": "https://tigglezz.github.io/csb-38oz1/static/js/runtime-main.4e499b89.js",
+    "runtime-main.js.map": "https://tigglezz.github.io/csb-38oz1/static/js/runtime-main.4e499b89.js.map",
+    "static/js/2.773fb30d.chunk.js": "https://tigglezz.github.io/csb-38oz1/static/js/2.773fb30d.chunk.js",
+    "static/js/2.773fb30d.chunk.js.map": "https://tigglezz.github.io/csb-38oz1/static/js/2.773fb30d.chunk.js.map",
+    "index.html": "https://tigglezz.github.io/csb-38oz1/index.html",
+    "static/css/main.c4902aa5.chunk.css.map": "https://tigglezz.github.io/csb-38oz1/static/css/main.c4902aa5.chunk.css.map",
+    "static/js/2.773fb30d.chunk.js.LICENSE.txt": "https://tigglezz.github.io/csb-38oz1/static/js/2.773fb30d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e499b89.js",
+    "static/js/2.773fb30d.chunk.js",
+    "static/css/main.c4902aa5.chunk.css",
+    "static/js/main.fdcec716.chunk.js"
+  ]
+}
